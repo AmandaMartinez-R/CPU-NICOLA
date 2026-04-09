@@ -1,5 +1,9 @@
 # CPU Simples de 8 Bits 
 
+🎬 Vídeo explicativo: https://youtu.be/3ZWsXdFyIfY 
+
+---
+
 ## Visão Geral
 
 Este projeto consiste na implementação de uma CPU simplificada de 8 bits, desenvolvida no *software Digital*, com o objetivo de consolidar conceitos fundamentais de arquitetura de computadores.
